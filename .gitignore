@@ -1,0 +1,9 @@
+# Design working files (Claude design-compiler source + originals).
+# The finished site is fully self-contained in index.html (fonts + photos
+# inlined), so these bulky sources aren't needed to host the site. They stay
+# on Blake's machine. Remove this line if you'd rather keep the source in-repo.
+Mobile landing page design/
+
+# OS / editor cruft
+Thumbs.db
+.DS_Store
